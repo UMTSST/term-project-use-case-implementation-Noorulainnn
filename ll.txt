@@ -1,0 +1,10 @@
+Post tweet
+*ID->Username->write tweet(option:ADD photo or video or GIF by Twitter)->optional:Add location->Press Button"Tweet".
+Liked by 
+*UserID->date->day->time
+ -123(April/23/2018,Mon,11:02am)
+Comment by
+*UserID->date->day->time
+ -123(April/23/2018,Mon,11:02am)
+Share by
+*UserId->Navigate to the Tweet you'd like->Tap the share icon->Tap Share Tweet. 
