@@ -1,0 +1,14 @@
+void TestCase()
+    {
+   ofstream Twitter("Twitter.txt", std::ios_base::app);
+
+    char User_ID[20], Comments[2000], Time[20], Date[20];
+
+    cout << "Enter Your Id and tweet with data and time" << endl;
+    cout << "Enter User ID: ";
+    gets(User_ID);
+    Twitter <<"User ID :"<< User_ID << endl;
+    cout << "Enter Your Comment::";
+    gets(Comments);
+    return;
+    }
